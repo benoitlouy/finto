@@ -1,4 +1,4 @@
-module finto
+module github.com/benoitlouy/finto
 
 go 1.16
 
