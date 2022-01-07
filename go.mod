@@ -11,5 +11,4 @@ require (
 	github.com/jmespath/go-jmespath v0.0.0-20160803190731-bd40a432e4c7 // indirect
 	github.com/smartystreets/goconvey v1.7.2 // indirect
 	github.com/stretchr/testify v1.7.0
-	github.com/threadwaste/finto v0.0.0-20160825150859-a521e880e021
 )
