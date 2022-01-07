@@ -13,7 +13,8 @@ import (
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/sts"
 	"github.com/gorilla/handlers"
-	"github.com/threadwaste/finto"
+
+  "finto"
 )
 
 var (
